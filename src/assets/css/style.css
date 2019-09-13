@@ -2153,10 +2153,10 @@ img {
 }
 
 .card.hovercard .cardheader {
-    /* background: url("http://lorempixel.com/850/280/nature/4/"); */
+    background: url("../img/background.jpg");
     background-size: cover;
     height: 210px;
-    background: #0797d8;
+    /* background: #0797d8; */
 }
 
 .card.hovercard .avatar {
