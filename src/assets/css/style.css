@@ -2153,8 +2153,8 @@ img {
 }
 
 .card.hovercard .cardheader {
-    background: url("../img/background.jpg");
-    background-size: cover;
+    /* background: url("../img/background.jpg"); */
+    /* background-size: cover; */
     height: 210px;
     /* background: #0797d8; */
 }
